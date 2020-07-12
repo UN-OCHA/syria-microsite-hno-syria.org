@@ -1,0 +1,60 @@
+﻿id,sector,sector_name,title,name,email
+1,ocha,مكتب تنسيق الشؤون الإنسانية,رئيس مكتب أوتشا سورية,Heli Uusikyla,uusikyla@un.org
+2,ocha,مكتب تنسيق الشؤون الإنسانية,رئيس مكتب أوتشا تركيا,Trond Jensen,jensen8@un.org
+3,ocha,مكتب تنسيق الشؤون الإنسانية,رئيس مكتب أوتشا الأردن بالإنابة,Mathew Ryder,ryderm@un.org
+4,ocha,مكتب تنسيق الشؤون الإنسانية,رئيس المكتب الإقليمي للأزمة السورية,Paul Handley,handleyp@un.org
+5,ocha_deputy,مكتب تنسيق الشؤون الإنسانية,نائب رئيس مكتب أوتشا سورية,Samir Elhawary,elhawary@un.org
+6,ocha_deputy,مكتب تنسيق الشؤون الإنسانية,نائب رئيس مكتب أوتشا تركيا,Annette Hearns,hearns@un.org
+7,ocha_deputy,مكتب تنسيق الشؤون الإنسانية,مسؤول الإعلام في مكتب أوتشا الأردن,Zein Tayyeb,tayyeb@un.org
+8,ocha_deputy,مكتب تنسيق الشؤون الإنسانية,مسؤول الإعلام في مكتب أوتشا الإقليمي للأزمة السورية,David Swanson ,swanson@un.org
+9,ocha_deputy,مكتب تنسيق الشؤون الإنسانية,نائب رئيس مكتب أوتشا سورية,Claudia Rodriguez Burrell,rodriguez24@un.org
+10,ocha_officer,مكتب تنسيق الشؤون الإنسانية,مسؤول الإعلام في مكتب أوتشا سورية,Hedinn Halldorsson,hedinn.halldorsson@un.org
+11,cccm,تنسيق المخيمات وإدارتها,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز تركيا,Dher Hayo,hayo@unhcr.org
+12,cccm,تنسيق المخيمات وإدارتها,المنسق المشارك لمركز تركيا,Amro Tarrisi,atarrisi@globalcommunities.org
+13,protection,الحماية,المنسق المشارك للمنهج المتكامل للاستجابة الإنسانية في سورية,Sameer Saran,sameer.saran@rescue.org
+14,protection,الحماية,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز سورية,Elisabetta Brumat,brumat@unhcr.org
+15,protection,الحماية,منسق القطاع الفرعي المعني بالعنف القائم على النوع الاجتماعي في المنهج المتكامل للاستجابة الإنسانية في سورية,Jennifer Miquel,miquel@unfpa.org
+16,protection,الحماية,أخصائي القطاع الفرعي المعني بالعنف القائم على النوع الاجتماعي في المنهج المتكامل للاستجابة الإنسانية في سورية,Aishia Glasford,antionette@unfpa.org
+17,protection,الحماية,منسق القطاع الفرعي المعني بحماية الطفل في المنهج المتكامل للاستجابة الإنسانية في سورية,Susan Andrew,sandrew@unicef.org
+18,protection,الحماية,منسق القطاع الفرعي المعني بإزالة الألغام في المنهج المتكامل للاستجابة الإنسانية في سورية,Gianmarco M. Vitale,gianmarcoM@unops.org
+19,protection,الحماية,منسق القطاع الفرعي المعني بالعنف القائم على النوع الاجتماعي في مركز سورية,Francesca Paola CRABU,crabu@unfpa.org
+20,protection,الحماية,منسق القطاع الفرعي المعني بإزالة الألغام في مركز سورية,Sonia Pezier ,soniap@unops.org
+21,protection,الحماية,منسق القطاع الفرعي المعني بحماية الطفل في مركز سورية,Kehkashan Beenish Khan,kbkhan@unicef.org
+22,protection,الحماية,منسق مركز تركيا,Victoria Shepard,shepard@unhcr.org
+23,protection,الحماية,المنسق المشارك لمركز تركيا,Mohamad Kalae,mohamad.kalae@rescue.org 
+24,protection,الحماية,منسق القطاع الفرعي المعني بالعنف القائم على النوع الاجتماعي في مركز تركيا,Reem Khamis,rkhamis@unfpa.org 
+25,protection,الحماية,المنسق المشارك للقطاع الفرعي المعني بالعنف القائم على النوع الاجتماعي في مركز تركيا,Fulvia Boniardi,fboniardi@globalcommunities.org
+26,protection,الحماية,منسق القطاع الفرعي المعني بإزالة الألغام في مركز تركيا,Heba Najjar,Heban@unops.org
+27,protection,الحماية,منسق القطاع الفرعي المعني بحماية الطفل في مركز تركيا,Gbemisola Akinboyo,gakinboyo@unicef.org
+28,protection,الحماية,المنسق المشارك للقطاع الفرعي المعني بإزالة الألغام في مركز تركيا,Ahmad Salem,ahmad_salem@wvi.org
+29,education,التعليم,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز تركيا,Amson Simbolon,asimbolon@unicef.org
+30,education,التعليم,المنسق المشارك للمنهج المتكامل للاستجابة الإنسانية في سورية,MacKenzie Monserez,Mackenzie.Monserez@savethechildren.org
+31,education,التعليم,منسق مركز سورية,Rania Zakhia,rzakhia@unicef.org 
+32,education,التعليم,المنسق المشارك لمركز تركيا,Kemal Alp Taylan,kemal.alptaylan@savethechildren.org
+33,erl,الإنعاش المبكر وسبل العيش,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز سورية,Usman Qazi,usman.qazi@undp.org
+34,erl,الإنعاش المبكر وسبل العيش,منسق مركز تركيا,Francesco Baldo,francesco.baldo@undp.org
+35,erl,الإنعاش المبكر وسبل العيش,المنسق المشارك لمركز تركيا,Caterina Pino,caterina.pino@giz.de
+36,etc,مجموعة الاتصالات في حالات الطوارئ,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز سورية,Balamine Ouattara,balamine.ouattara@wfp.org
+37,etc,مجموعة الاتصالات في حالات الطوارئ,منسق مركز تركيا,Shahan Ara Qadir,shahan.araquadir@wfp.org
+38,fs,الأمن الغذائي والزراعة,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز سورية,Samantha Chattaraj,samantha.chattaraj@wfp.org
+39,fs,الأمن الغذائي والزراعة,المنسق المشارك للمنهج المتكامل للاستجابة الإنسانية في سورية,Tulin Arslan,tarslan@mercycorps.org
+40,fs,الأمن الغذائي والزراعة,المنسق المشارك لمركز سورية,Joseph Oneka,joseph.oneka@fao.org
+41,fs,الأمن الغذائي والزراعة,منسق مركز تركيا,Anas Almohammad ,aalmohammad@sy.goal.ie
+42,fs,الأمن الغذائي والزراعة,منسق مركز تركيا,Martina Iannizzotto,martina.Iannizzotto@fao.org
+43,health,الصحة,منسق المنهج المتكامل للاستجابة الإنسانية في سورية ,Christina Bethke,dupinc@who.int
+44,health,الصحة,المنسق المشارك للمنهج المتكامل للاستجابة الإنسانية في سورية,Kais Al Dairi,kais.dairi@rescue.org 
+45,health,الصحة,المنسق المشارك لمركز سورية,Azret Kalmykov,kalmykova@who.int
+46,health,الصحة,منسق مركز تركيا,Jorge Martinez,martinezj@who.int
+47,logistics,الخدمات اللوجستية,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز سورية,Samuel Terefe,samuel.terefe@wfp.org
+48,logistics,الخدمات اللوجستية,منسق مركز تركيا,Myron Kamensa,myron.kamensa@wfp.org
+49,shelter_nfi,المأوى / المواد غير الغذائية,المنسق المشارك للمنهج المتكامل للاستجابة الإنسانية في سورية,Greg Andrews ,wos_nfi_shelter@drc-mena.org
+50,shelter_nfi,المأوى / المواد غير الغذائية,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز سورية,Pankaj Kumar Singh,singhpa@unhcr.org
+51,shelter_nfi,المأوى / المواد غير الغذائية,منسق مركز تركيا,Angel Pascual,pascuala@unhcr.org
+52,nutrition,التغذية,المنسق المشارك للمنهج المتكامل للاستجابة الإنسانية في سورية,Christine Fernandes,christine.fernandes@savethechildren.org
+53,nutrition,التغذية,منسق المنهج المتكامل للاستجابة الإنسانية في سورية /  مركز تركيا,Tarig Mekkawi,tmekkawi@unicef.org
+54,nutrition,التغذية,منسق مركز سورية,Najwa Rizkallah,nrizkallah@unicef.org
+55,wash,المياه والصرف الصحي والنظافة الصحية,منسق المنهج المتكامل للاستجابة الإنسانية في سورية,Patrick Laurent,plaurent@unicef.org
+56,wash,المياه والصرف الصحي والنظافة الصحية,المنسق المشارك للمنهج المتكامل للاستجابة الإنسانية في سورية,Jakub Pajak,jakub.pajak@acted.org
+57,wash,المياه والصرف الصحي والنظافة الصحية,منسق مركز سورية,Madhav Pahari,mpahari@unicef.org
+58,wash,المياه والصرف الصحي والنظافة الصحية,منسق مركز تركيا,Lalit Patra,lpatra@unicef.org
+59,wash,المياه والصرف الصحي والنظافة الصحية,المنسق المشارك لمركز تركيا,Omar Sobeh,o.sobeh@hihfad.org

